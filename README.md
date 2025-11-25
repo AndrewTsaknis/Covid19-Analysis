@@ -84,3 +84,14 @@ The following visualizations were created using Python (Pandas, Matplotlib):
 
 
 Run the cells to generate the charts.
+
+## 🌍 Analyzing Different Countries
+
+This project is not limited to a single country.  
+You can generate charts for **any country available in the dataset**.
+(the program will generate a list of the available country names in the previous lines).
+
+Inside the notebook, simply modify the following line:
+
+```python
+country = "Japan"
